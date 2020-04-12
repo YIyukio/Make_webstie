@@ -1,11 +1,11 @@
-name: "サイトタイトル"
+name: "スキルの階段"
 navbar: 
-  title: "My ウェブサイト"
+  title: "スキルの階段"
   left:
     - text: "ホーム"
       href: index.html
-    - text: "趣味"
-      href: shumi.html
+    - text: "Rのスキル"
+      href: R.html
   right:
     - text: "タグチェック用"
       href: id_class_check.html
