@@ -4,7 +4,7 @@ navbar:
   left:
     - text: "ホーム"
       href: index.html
-    - text: "Rのスキル"
+    - text: "Rの階段"
       href: R.html
   right:
     - text: "タグチェック用"
